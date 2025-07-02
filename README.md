@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Simran Sanghani</h1>
+<h3 align="center">Aspiring Data Analyst | Passionate about turning data into insights</h3>
 
-<!--
-**simransanghani/simransanghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔍 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm interested in **Data Analytics** and love transforming raw data into actionable insights.
+- 💻 Currently Exploring Dashboards, Data pipelines, and Visual storytelling.
+
+- 🔭 Here You will find, Projects I am building or Contributing to
+
+- 📫 How to reach me **simransanghani@gmail.com**
+
+---
+
+🛠️ **Tech Stack**
+
+- 📈 **Data Visualization:** Power BI, Grafana, Matplotlib, Seaborn  
+- 🗃️ **Database & Querying:** SQL (MySQL, SQL Server)  
+- 🐍 **Programming:** Python (Pandas, NumPy, Plotly)  
+- 📂 **Version Control:** Git, GitHub  
+
+---
+
+📫 **Connect with me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/simran-sanghani/)
+
+---
+
