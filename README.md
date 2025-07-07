@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Simran Sanghani</h1>
-<h3 align="center">Aspiring Data Analyst | Passionate about turning data into insights</h3>
+<h1>Hi 👋, I'm Simran Sanghani</h1>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76C6C&width=500&lines=Aspiring+Data+Analyst;Turning+Data+into+Insights;Power+BI+%7C+SQL+%7C+Python+Enthusiast+" alt="Typing SVG" />
+</p>
+
 
 ---
 
